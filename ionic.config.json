@@ -1,5 +1,7 @@
 {
   "name": "balta.io-1973-baltagram",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
